@@ -2,9 +2,7 @@
 This app is created with react.js for renting cars. Data stored in json file
 
 # What is used:
-Npx
-Jsx
-Bootstrap
+NPX, React.js, JSX, Bootstrap
 
 # Version Requirement:
 Node >= 14.0.0 and npm >= 5.6 
